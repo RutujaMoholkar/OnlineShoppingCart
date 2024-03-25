@@ -26,6 +26,7 @@ Welcome to the Online Shopping Cart project! This project is a simple web applic
 * View the contents of your shopping cart by clicking on the "View Cart" button.
 
 ## Contributing
-Contributions are welcome! If you'd like to contribute to the project, please fork the repository and submit a pull request with your changes.
+- [Rutuja Moholkar](https://github.com/RutujaMoholkar)
 
+Feel free to contribute by submitting bug fixes or feature enhancements via pull requests.
 <strong> Happy Coding ..! </strong>
