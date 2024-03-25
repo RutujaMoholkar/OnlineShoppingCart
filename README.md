@@ -28,5 +28,5 @@ Welcome to the Online Shopping Cart project! This project is a simple web applic
 ## Contributing
 - [Rutuja Moholkar](https://github.com/RutujaMoholkar)
 
-Feel free to contribute by submitting bug fixes or feature enhancements via pull requests.
+Feel free to contribute by submitting bug fixes or feature enhancements via pull requests.<br>
 <strong> Happy Coding ..! </strong>
