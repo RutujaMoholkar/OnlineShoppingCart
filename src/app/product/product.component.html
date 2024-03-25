@@ -1,0 +1,25 @@
+<div class="product-container">
+
+  <div *ngFor="let product of products" class="product-card">
+    <h3>{{ product.name }}</h3>
+    <p>{{ product.description }}</p>
+    <p>Price: Rs.{{ product.price }}</p>
+    <button (click)="addToCart(product)">Add to Cart</button>
+  </div>
+
+</div>
+
+
+<div class="cart" style="margin-left:70px;">
+
+  <button (click)="toggleCart()" class="cartBtn">View Cart</button>
+  <div *ngIf="cartVisible" class="cart-items">
+    <br>
+    <h3 style="color:red;font-family: Georgia, 'Times New Roman', Times, serif;">Cart Items: </h3><br>
+    <ul>
+      <li *ngFor="let item of cart">{{ item.name }} - {{ item.price }}</li>
+    </ul>
+    <button (click)="toggleCart()" class="cartBtn">Close Cart</button>
+  </div>
+
+</div>
