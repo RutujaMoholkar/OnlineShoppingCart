@@ -10,7 +10,7 @@ Welcome to the Online Shopping Cart project! This project is a simple web applic
 ## Technologies Used
 1. Angular
 2. HTML5
-3.CSS3
+3. CSS3
 4. Bootstrap
    
 ## Setup Instructions
